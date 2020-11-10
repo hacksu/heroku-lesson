@@ -114,6 +114,9 @@ There is an `Open App` button on the top right of your management page for your 
 `https://{PROJECT NAME}.herokuapp.com/`
 
 ## Alright, what about a custom domain name?
+The details on how to add a custom domain name to heroku are [here](https://devcenter.heroku.com/articles/custom-domains)
+
+
 
 First, you need to have a domain name. I'd recommend buying one from [Namecheap](https://namecheap.com)
 
@@ -124,11 +127,13 @@ https://education.github.com/pack?sort=popularity&tag=Domains
 You can get a **FREE** 1 year .me domain from Namecheap through this.
 
 
-The details on how to add a custom domain name to heroku are [here](https://devcenter.heroku.com/articles/custom-domains)
+## Verify our account
 
 In order to do this, we must verify our heroku account. You need to add a credit card to your account on your [billing page](https://dashboard.heroku.com/account/billing). I've already done this step.
 
 Adding your domain to heroku is free, they just want to verify you are a real person.
+
+## Adding the domain
 
 ```
 heroku domains:add mydomainname.com

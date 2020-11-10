@@ -55,6 +55,11 @@ npm install --save express
 echo > index.js
 ```
 
+(Here is all of that but in a single command so you can copy paste)
+```
+git init && echo 'node_modules' > .gitignore && npm init -y && npm install --save express && echo > index.js
+```
+
 Next, we need to open `package.json` which should be inside our new folder.
 
 

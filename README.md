@@ -129,7 +129,7 @@ You can get a **FREE** 1 year .me domain from Namecheap through this.
 
 ## Verify our account
 
-In order to do this, we must verify our heroku account. You need to add a credit card to your account on your [billing page](https://dashboard.heroku.com/account/billing). I've already done this step.
+In order to add a custom domain, we must verify our heroku account. You need to add a credit card to your account on your [billing page](https://dashboard.heroku.com/account/billing). I've already done this step.
 
 Adding your domain to heroku is free, they just want to verify you are a real person.
 
@@ -144,13 +144,3 @@ It'll spit out a **DNS Target**, ending in `.herokudns.com`. Log in to your DNS 
 I'd recommend using CloudFlare for DNS, its pretty great.
 
 However, we won't be covering domains and DNS in this lesson.
-
-
-
-
-1. [Sign up](https://signup.heroku.com/login) for Heroku
-2. Verify your email
-3. [Login and go to your Dashboard](https://dashboard.heroku.com/apps)
-4. Create a new app
-5. [Install](https://devcenter.heroku.com/articles/heroku-cli) Heroku CLI
-6.

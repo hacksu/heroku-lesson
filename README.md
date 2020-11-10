@@ -118,7 +118,7 @@ There is an `Open App` button on the top right of your management page for your 
 First, you need to have a domain name. I'd recommend buying one from [Namecheap](https://namecheap.com)
 
 
-### AS A STUDENT, YOU ALSO GAIN ACCESS TO THE GITHUB STUDENT DEVELOPER PACK
+**AS A STUDENT, YOU ALSO GAIN ACCESS TO THE GITHUB STUDENT DEVELOPER PACK**
 https://education.github.com/pack?sort=popularity&tag=Domains
 You can get a **FREE** 1 year .me domain from Namecheap through this.
 

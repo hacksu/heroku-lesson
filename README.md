@@ -144,3 +144,5 @@ It'll spit out a **DNS Target**, ending in `.herokudns.com`. Log in to your DNS 
 I'd recommend using CloudFlare for DNS, its pretty great.
 
 However, we won't be covering domains and DNS in this lesson.
+
+After doing this, you should be able to visit your heroku app via your own domain name!

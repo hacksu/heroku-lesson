@@ -9,10 +9,24 @@ Once you have an account, [Login and go to your Dashboard](https://dashboard.her
 ## Install the Heroku CLI
 Go [here](https://devcenter.heroku.com/articles/heroku-cli) to install the Heroku CLI!
 
-If you are on linux, you can just run
+If you are on linux, you can just run:
 ```sh
 curl https://cli-assets.heroku.com/install.sh | sh
 ```
+
+## Login to Heroku CLI
+In your terminal, run the following.
+```
+heroku login
+```
+Press any key and it will open up your browser. Press the Log In button to link to your terminal.
+
+## Create your new App
+Go to your [dashboard](https://dashboard.heroku.com/apps) and click `Create New App`.
+*(if you don't see this, look in top right for `New` and the dropdown will have `Create New App`)*
+
+
+
 
 1. [Sign up](https://signup.heroku.com/login) for Heroku
 2. Verify your email
